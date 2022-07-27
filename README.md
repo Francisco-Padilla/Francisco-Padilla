@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Francisco-Padilla
+- 👀 I’m interested in Books, Movies, hanging out and learning new things...
+- 🌱 I’m currently learning github commants, MSSQL, and C#
